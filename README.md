@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🎓 ISE Student  
-- 💻 Learning **Data Structures & Algorithms**  
+- 💻 Learning **Python,C,Java Script etc**  
 - 🌐 Exploring **Web Development**  
 - 🤖 Interested in **AI & Robotics**  
 - ⚡ Love turning ideas into real projects  
